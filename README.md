@@ -12,4 +12,4 @@
 
 [Spring Boot项目端口8080被占用的解决方法](https://github.com/defineYIDA/Spring-Boot-Case/blob/master/Spring%20Boot%E9%A1%B9%E7%9B%AE%E7%AB%AF%E5%8F%A38080%E8%A2%AB%E5%8D%A0%E7%94%A8%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md)
 
-[Spring-Boot入门(二)MyBatis-Plus的配置和使用和使用快速生成Mybatis的Java POJO文件及数据库Mapping文件的界面工具](https://github.com/defineYIDA/Spring-Boot-Case/blob/master/Spring-Boot%E5%85%A5%E9%97%A8(%E4%BA%8C)MyBatis-Plus%E7%9A%84%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8%E5%92%8C%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E7%94%9F%E6%88%90Mybatis%E7%9A%84Java%20POJO%E6%96%87%E4%BB%B6%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%BA%93Mapping%E6%96%87%E4%BB%B6%E7%9A%84%E7%95%8C%E9%9D%A2%E5%B7%A5%E5%85%B7.md)
+[Spring-Boot入门(二)MyBatis-Plus的配置和使用和使用快速生成Mybatis的Java POJO文件及数据库Mapping文件的界面工具](https://defineyida.github.io/2018/12/04/Spring-Boot%E5%85%A5%E9%97%A8-%E4%BA%8C-MyBatis-Plus%E7%9A%84%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8%E5%92%8C%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E7%94%9F%E6%88%90Mybatis%E7%9A%84Java-POJO%E6%96%87%E4%BB%B6%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%BA%93Mapping%E6%96%87%E4%BB%B6%E7%9A%84%E7%95%8C%E9%9D%A2%E5%B7%A5%E5%85%B7/)
