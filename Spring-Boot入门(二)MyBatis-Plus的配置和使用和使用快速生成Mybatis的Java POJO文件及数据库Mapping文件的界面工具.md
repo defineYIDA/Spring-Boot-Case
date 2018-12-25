@@ -74,7 +74,7 @@
 **两种配置方式：**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这两种方法上面已经说到一种基于XML配置文件，另一种基于注解，推荐使用注解这种方式来进行配置来避免使用易错，臃肿xml配置文件！而且如果你阅读过[MyBatis-Plus](https://mp.baomidou.com/guide/#%E7%89%B9%E6%80%A7)的官网，也会发现官网上的快速入门也采用的是基于注解的配置方式，这种方式的优点也是Spring-Boot的优点-----化繁为简,所以我们这里介绍通过注解的方式来进行配置。
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不禁感概，Spring-Boot总会和各种组件之间都会迸发出不一样的 ji 情火花！甚至连`mybatis-spring-boot-starter`的配置都不用引入到**pom**文件。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不禁感概，Spring-Boot总会和各种组件之间都会迸发出不一样的 ji 情火花！
 
 **通过注解进行配置：**
 
