@@ -6,7 +6,7 @@
 
 [Spring-Boot+MyBatisPlus整合](https://github.com/defineYIDA/Spring-Boot-Case/tree/master/MyBatis-Plus%2BSpringBoot)
 
-#### 参考文章
+#### Blogs
 
 [Spring Boot入门(一)Spring Boot+IDEA+JDK1.8开发环境和第一个Hello项目的搭建](https://defineyida.github.io/2018/12/05/scaffolds-Spring-Boot%E5%85%A5%E9%97%A8-%E4%B8%80-Spring-Boot-IDEA-JDK1-8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%92%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%90%AD%E5%BB%BA%EF%BC%8C%E9%99%84%E6%89%80%E9%9C%80%E8%B5%84%E6%BA%90%E9%93%BE%E6%8E%A5-md/)
 
